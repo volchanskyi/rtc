@@ -1639,3 +1639,6 @@ mod duplicate_report_test;
 
 #[path = "rack_tlp_test.rs"]
 mod rack_tlp_test;
+
+#[path = "stream_scheduler_test.rs"]
+mod stream_scheduler_test;
