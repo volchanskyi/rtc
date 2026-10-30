@@ -1636,3 +1636,6 @@ mod message_selection_test;
 
 #[path = "duplicate_report_test.rs"]
 mod duplicate_report_test;
+
+#[path = "rack_tlp_test.rs"]
+mod rack_tlp_test;
